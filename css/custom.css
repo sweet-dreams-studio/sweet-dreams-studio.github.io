@@ -14,8 +14,18 @@ html {
     margin-bottom: 20px;
 }
 
+.nav-link.active {
+    background-color: #007bff;
+    color: white;
+}
+
 .factsheet-item {
     margin-bottom: 15px;
+}
+
+.factsheet-item > ul {
+    list-style: none;
+    padding: 0;
 }
 
 .factsheet-item-title {
