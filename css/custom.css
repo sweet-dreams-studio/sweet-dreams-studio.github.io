@@ -1,0 +1,90 @@
+html {
+    font-size: 85%;
+}
+
+.container {
+    margin-top: 30px;
+}
+
+#main-title {
+    margin-top: 20px;
+}
+
+.title-image {
+    margin-bottom: 20px;
+}
+
+.factsheet-item {
+    margin-bottom: 15px;
+}
+
+.factsheet-item-title {
+    font-weight: bold;
+}
+
+#part-description {
+    margin-bottom: 10px;
+}
+
+#part-history {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+#part-projects {
+    margin-top: 20px;
+}
+
+.history-title {
+    font-weight: 650;
+    margin-top: 10px;
+}
+
+.videos-item {
+    margin-top: 20px;
+}
+
+.video-title {
+    font-weight: 650;
+    margin-top: 30px;
+}
+
+.images-dl {
+    margin-top: 10px;
+}
+
+#part-awards {
+    margin-bottom: 10px;
+
+}
+
+.award-item {
+    font-style: italic;
+}
+
+#part-articles {
+    margin-bottom: 10px;
+}
+
+#part-links > h3 {
+    margin-bottom: 20px;
+}
+
+.links-item {
+    margin-top: 10px;
+}
+
+.links-item-title {
+    font-weight: 650;
+}
+
+#part-team {
+    margin-bottom: 10px;
+}
+#part-contact {
+    margin-bottom: 10px;
+}
+
+ #footer {
+     margin-bottom: 10px;
+ }
